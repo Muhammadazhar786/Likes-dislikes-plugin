@@ -1,0 +1,18 @@
+#likes-dislikes{
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+	list-style: none;
+
+}
+#likes-dislikes a{
+	text-decoration: none;
+}
+#likes-dislikes li a{
+	background-color:green;
+	color: #fff;
+	padding: 7px;
+	border-radius: 15px 0;
+
+
+}
